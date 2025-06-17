@@ -4,9 +4,9 @@
 
 Company: CODTECH IT SOLUTIONS PVT.LTD
 
-Name: Valiveti Bhavana
+Name: Sajja Varsha
 
-Intern ID: CT06DL1353
+Intern ID: CT06DL1341
 
 Domain: Artificial Intelligence
 
